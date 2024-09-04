@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarya Vikrant Dalvi
 - 👀 I’m interested in ...Web Development and Coding.
-- 🌱 I’m currently learning ...Web Development 
+- 🌱 I’m currently learning ...Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email id- aaryavdalvi@gmail.com
 - 😄 Pronouns: ...
